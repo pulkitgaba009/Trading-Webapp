@@ -1,6 +1,6 @@
 function Team() {
     return ( 
-        <Team/>
+        <h1>Team</h1>
      );
 }
 

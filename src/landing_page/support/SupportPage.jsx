@@ -6,10 +6,8 @@ import Ticket from "./Ticket";
 function SupportPage() {
     return ( 
         <div>
-            <Navbar/>
             <Hero/>
             <Ticket/>
-            <Footer/>
         </div>
      );
 }
