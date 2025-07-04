@@ -10,29 +10,29 @@ function Team() {
           <img
             src="./nithinKamath.jpg"
             alt=""
-            style={{ borderRadius: "100%", width: "60%" }}
+            style={{ borderRadius: "100%", width: "50%" }}
           />
           <h5 className="text-center mt-4">Nithin Kamath</h5>
           <h6 className="text-center mt-4">Founder, CEO</h6>
         </div>
         <div className="col-6 p-5 text-muted" style={{ fontSize: "1.2em" }}>
-          <p>
+          <p style={{fontSize:"1rem"}}>
             Nithin bootstrapped and founded Zerodha in 2010 to overcome the
             hurdles he faced during his decade long stint as a trader. Today,
             Zerodha has changed the landscape of the Indian broking industry.
           </p>
           <br />
 
-          <p>
+          <p style={{fontSize:"1rem"}}>
             He is a member of the SEBI Secondary Market Advisory Committee
             (SMAC) and the Market Data Advisory Committee (MDAC).{" "}
           </p>
           <br />
 
-          <p>Playing basketball is his zen.</p>
+          <p style={{fontSize:"1rem"}}>Playing basketball is his zen.</p>
           <br />
 
-          <p>Connect on <a href="" style={{textDecoration:"none"}}>Homepage</a> / <a href="" style={{textDecoration:"none"}}>TradingQnA</a> / <a href="" style={{textDecoration:"none"}}>Twitter</a> </p>
+          <p style={{fontSize:"1rem"}}>Connect on <a href="" style={{textDecoration:"none"}}>Homepage</a> / <a href="" style={{textDecoration:"none"}}>TradingQnA</a> / <a href="" style={{textDecoration:"none"}}>Twitter</a> </p>
         </div>
       </div>
     </div>
