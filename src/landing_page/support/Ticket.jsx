@@ -6,7 +6,7 @@ function Ticket() {
       </div>
       <div className="row">
         <div className="col-4 mt-5 mb-5">
-          <h4><i class="fa-regular fa-square-plus"></i> Account opening</h4>
+          <h4><i className="fa-regular fa-square-plus"></i> Account opening</h4>
           <a style={{ textDecoration: "none" }} href="">
             Resident individual <br />
           </a>
@@ -25,7 +25,7 @@ function Ticket() {
         </div>
 
         <div className="col-4 mt-5 mb-5">
-          <h4><i class="fa-regular fa-user"></i> Your Zerodha Account</h4>
+          <h4><i className="fa-regular fa-user"></i> Your Zerodha Account</h4>
           <a style={{ textDecoration: "none" }} href="">
             Your Profile <br />
           </a>
@@ -44,7 +44,7 @@ function Ticket() {
         </div>
 
         <div className="col-4 mt-5 mb-5">
-          <h4><i class="fa-solid fa-credit-card"></i> Funds</h4>
+          <h4><i className="fa-solid fa-credit-card"></i> Funds</h4>
           <a style={{ textDecoration: "none" }} href="">
             Add money <br />
           </a>
@@ -62,7 +62,7 @@ function Ticket() {
 
       <div className="row">
         <div className="col-4 mt-5 mb-5">
-          <h4><i class="fa-solid fa-chart-simple"></i> Kite</h4>
+          <h4><i className="fa-solid fa-chart-simple"></i> Kite</h4>
           <a style={{ textDecoration: "none" }} href="">
             IPObr <br />
           </a>
@@ -84,7 +84,7 @@ function Ticket() {
         </div>
 
         <div className="col-4 mt-5 mb-5">
-          <h4><i class="fa-solid fa-terminal"></i> Console</h4>
+          <h4><i className="fa-solid fa-terminal"></i> Console</h4>
           <a style={{ textDecoration: "none" }} href="">
             Portfolio <br />
           </a>
@@ -106,7 +106,7 @@ function Ticket() {
         </div>
 
         <div className="col-4 mt-5 mb-5">
-          <h4><i class="fa-solid fa-coins"></i> Coin</h4>
+          <h4><i className="fa-solid fa-coins"></i> Coin</h4>
           <a style={{ textDecoration: "none" }} href="">
             Mutual funds <br />
           </a>
