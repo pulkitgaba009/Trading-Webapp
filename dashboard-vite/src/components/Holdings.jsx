@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import axios from "axios"; // ✅ no destructuring
+import axios from "axios"; 
 
 const Holdings = () => {
   const [allHoldings, setAllHoldings] = useState([]);

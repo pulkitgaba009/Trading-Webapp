@@ -6,7 +6,7 @@ const bodyParser = require("body-parser");
 const cors = require("cors");
 
 const HoldingsModel = require("./models/HoldingsModels");
-const PositionsModel = require("./models/PsitionsModel");
+const PositionsModel = require("./models/PositionsModel");
 
 const PORT = process.env.PORT || 3000;
 const URL = process.env.MONGO_URL;
