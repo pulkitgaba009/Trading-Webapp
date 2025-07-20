@@ -19,7 +19,7 @@ const BuyActionWindow = ({ uid }) => {
         mode: "BUY",
       });
       alert(response.data.message || "Order placed");
-      closeBuyWindow(); // ✅ Close the popup
+      closeBuyWindow(); 
     } catch (error) {
       console.error("Error placing order:", error);
       alert("Failed to place order");
@@ -27,7 +27,7 @@ const BuyActionWindow = ({ uid }) => {
   };
 
   const handleCancelClick = () => {
-    closeBuyWindow(); // ✅ Close the popup
+    closeBuyWindow(); 
   };
 
   return (
